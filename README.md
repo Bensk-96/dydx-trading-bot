@@ -11,4 +11,5 @@ https://www.udemy.com/course/dydx-pairs-trading-bot-build-in-python-running-in-t
 - Work with GitHub and manage a virtual private machine in the cloud via Amazon Web Services
 
 Illustration of Statistical Arbitrage
+
 ![image](https://github.com/Bensk-96/dydx-trading-bot/assets/91371262/4db8bacb-dd85-4aba-9ce4-d38de67986a9)
