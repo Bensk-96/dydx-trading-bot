@@ -12,4 +12,7 @@ https://www.udemy.com/course/dydx-pairs-trading-bot-build-in-python-running-in-t
 
 Illustration of Statistical Arbitrage
 
-![image](https://github.com/Bensk-96/dydx-trading-bot/assets/91371262/4db8bacb-dd85-4aba-9ce4-d38de67986a9)
+![image](https://github.com/Bensk-96/dydx-trading-bot/assets/91371262/030bc57c-49f5-4612-9745-43664236a554)
+
+Statistical arbitrage works by identifying patterns in historical price data to predict future price movements and exploit short-term imbalances between the prices of assets.
+
