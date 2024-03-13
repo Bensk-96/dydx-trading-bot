@@ -16,3 +16,10 @@ Illustration of Statistical Arbitrage
 
 Statistical arbitrage works by identifying patterns in historical price data to predict future price movements and exploit short-term imbalances between the prices of assets.
 
+Improvement Ideas
+- replace market order by limit order
+- Fix Telegram messaging bug (AWS)
+- Revise and simplify trading logic
+- Test different trading frequency(e.g. 1 mins, 5 mins, 10 mins)
+- Implementation with websocket and asynchronous structure
+- Implmentation on Testnet of other exchanges(e.g. Binance Future), because DYDX Testnet is sometime not liquid 
